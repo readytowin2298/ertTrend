@@ -1,0 +1,22 @@
+{
+  "name": "erttrend",
+  "version": "1.0.0",
+  "description": "Parses ERT Tickets to display trends/patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/readytowin2298/ertTrend.git"
+  },
+  "author": "David Michael Ames Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/readytowin2298/ertTrend/issues"
+  },
+  "homepage": "https://github.com/readytowin2298/ertTrend#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
